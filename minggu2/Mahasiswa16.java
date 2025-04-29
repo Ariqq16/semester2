@@ -37,7 +37,7 @@ public class Mahasiswa16 {
         }
     }
 
-    public Mahasiswa16() {
+    public Mahasiswa16(String string, String string2, String string3, double d) {
 
     }
 
@@ -46,6 +46,10 @@ public class Mahasiswa16 {
         this.nim = nim;
         this.ipk = ipk;
         this.kelas = kelas;
+    }
+
+    public Mahasiswa16(String string, String string2, String string3, double d) {
+        //TODO Auto-generated constructor stub
     }
 
 
